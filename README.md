@@ -1,0 +1,1 @@
+"" This is Sensor fault detection project industry ready project""
